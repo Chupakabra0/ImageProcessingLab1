@@ -90,3 +90,5 @@ packages/*
 *.idb
 *.pdb
 *.recipe
+
+images/*
